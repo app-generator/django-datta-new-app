@@ -4,6 +4,15 @@ Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django)** g
 
 <br />
 
+> New APP
+
+- Create `flight` APP
+- Configure Django to use it
+- Access the new app `index`:
+  - `http://localhost:8000/flight/index`
+
+<br />
+
 > Features
 
 - `Up-to-date dependencies`
